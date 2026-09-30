@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/mystorax-mark-dark.png">
+    <img src="brand/mystorax-mark.png" alt="MystoraX Holdings" width="140">
+  </picture>
+</p>
+
 # MystoraX Holdings Ltd.
 
 MystoraX coordinates research and venture development across eight separately focused labs. Our portfolio spans AI, physics, robotics, computational biology, environmental technology, privacy, mobile living and mobility research. This organization is for public code and documentation that the company chooses to release; a repository's presence does not imply a deployed product or validated research result.
