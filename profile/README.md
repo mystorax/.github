@@ -15,4 +15,6 @@ MystoraX coordinates research and venture development across eight separately fo
 
 **Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
 
+How we work: our code and documentation are written with AI coding assistants and reviewed, tested and revised by Amir Daneshpajouh; open-source parts made by others are credited where used.
+
 Contact: info@mystorax.ca | Website: https://mystorax.ca/
