@@ -15,4 +15,10 @@ MystoraX coordinates research and venture development across eight separately fo
 
 **Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
 
+## Our labs' public work
+
+[ParalleX Labs](https://github.com/parallexlabs), [TransitX Labs](https://github.com/transitxlabs), [ElementeX Labs](https://github.com/elementexlabs), [InfinitX Labs](https://github.com/infinitxlabs), [QuanteX Labs](https://github.com/quantexlabs), [RoboteX Labs](https://github.com/robotexlabs), [VoyaX Labs](https://github.com/voyaxlabs) and [GeneX Labs](https://github.com/genex-labs).
+
 Contact: info@mystorax.ca | Website: https://mystorax.ca/
+
+Open-source parts made by others are credited where used.
